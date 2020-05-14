@@ -1,2 +1,2 @@
 # data_Structure
-Implementation of data-structure in java
+Implementation of Data-Structure in Java
